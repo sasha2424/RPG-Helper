@@ -1,0 +1,10 @@
+apple,2,0.7,1;
+jar of jam,4,0.3,2;
+cabbage,3,0.4,1;
+carrot,1,0.6,1;
+potato,1,0.6,1;
+cooked meat,4,0.4,1;
+raw meat,2,0.3,1;
+salted meat,0,0.4,2;
+apple pie,5,0.2,3;
+flour bag,0,0.5,3;

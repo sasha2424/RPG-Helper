@@ -1,0 +1,73 @@
+ test
+   house
+         room
+               large chest
+                    18 gold
+                     leather leggings	D: 1	Perseption: 0.0
+                     leather leggings	D: 1	Perseption: 0.0
+                     iron mace	A: 4	Perseption: 0.0
+                     wooden sword	A: 2	Perseption: 0.0
+                     bow	A: 2	Perseption: 0.0
+                     cabbage	HP: 3
+
+               chest
+                    23 gold
+                     leather leggings	D: 1	Perseption: 0.0
+
+
+
+   house
+         bedroom
+               chest
+                    12 gold
+                     cloth cap	Perception: 0.0
+
+
+         bedroom
+               wardrobe
+                     cloth	Perception: 0.0
+
+
+         room
+               chest
+                    26 gold
+                     leather	Perception: 0.0
+
+
+
+   hut
+         room
+               chest
+                    4 gold
+                     leather leggings	D: 1	Perseption: 0.0
+
+
+
+   house
+         bedroom
+               bed
+
+               wardrobe
+                     quilt	Perception: 0.0
+
+               wardrobe
+                     cloth leggings	Perception: 0.0
+
+               chest
+                    14 gold
+                     wooden sword	A: 2	Perseption: 0.0
+
+
+         bedroom
+               bed
+
+
+
+   hut
+         room
+               barrel
+                     raw meat	HP: 2
+
+
+
+

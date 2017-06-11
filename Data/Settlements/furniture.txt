@@ -1,0 +1,9 @@
+chest,.9,1,0,D;
+wardrobe,.9,1,0,C;
+barrel,.9,1,0,F;
+weapon rack,.6,2,0,W;
+bed,1.0,1,0,  ;
+cellar,.5,2,0,F;
+shelves,.5,2,0,FW;
+table,.5,2,0,F;
+large chest,.4,2,1,AWD;

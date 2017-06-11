@@ -1,0 +1,17 @@
+wooden sword,2,0,0.0,0.9,0;
+stone sword,3,0,0.0,0.8,1;
+iron sword,4,0,0.0,0.6,1;
+engraved stone sword,5,0,0.05,0.5,2;
+iron dagger,3,0,0.0,.5,2;
+iron mallet,3,0,0.0,.3,2;
+iron hammer,3,0,0.0,.2,2;
+iron mace,4,0,0.0,.2,2;
+steal dagger,5,0,0.0,.2,4;
+steal sword,6,0,0.0,.2,4;
+engraved steal sword,7,0,0.05,.2,4;
+fire spell totem,1,0,0.0,.5,3;
+ice spell totem,1,0,0.0,.2,3;
+health spell totem,0,0,0.0,.1,4;
+oak skin totem,0,4,0.0,.1,4;
+bow,2,0,0.0,.5,2;
+engraved bow,3,0,0.05,.1,3;

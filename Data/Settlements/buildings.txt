@@ -1,0 +1,2 @@
+house,.9,3,bedroom room;
+hut,.9,1,room;

@@ -1,0 +1,208 @@
+	House 1:
+	Room 1:
+		chest
+			28gold
+			cloth tunic	A: 0	D: 0	Perseption: 0.0
+			iron mallet	A: 3	D: 0	Perseption: 0.0
+			leather	A: 0	D: 0	Perseption: 0.0
+		wardrobe
+			cloth tunic	A: 0	D: 0	Perseption: 0.0
+			leather	A: 0	D: 0	Perseption: 0.0
+			cloth boots	A: 0	D: 0	Perseption: 0.0
+		bed
+	Room 2:
+		chest
+			50gold
+			cloth	A: 0	D: 0	Perseption: 0.0
+			bow	A: 2	D: 0	Perseption: 0.0
+			cloth tunic	A: 0	D: 0	Perseption: 0.0
+		wardrobe
+			cloth cap	A: 0	D: 0	Perseption: 0.0
+			iron ring	A: 0	D: 1	Perseption: 0.0
+			leather	A: 0	D: 0	Perseption: 0.0
+		bed
+
+	House 2:
+	Room 1:
+		chest
+			14gold
+			cloth tunic	A: 0	D: 0	Perseption: 0.0
+			jar of jam	HP: 4
+			cloth tunic	A: 0	D: 0	Perseption: 0.0
+		weapon rack
+			stone sword	A: 3	D: 0	Perseption: 0.0
+			engraved stone sword	A: 5	D: 0	Perseption: 0.05
+			fire spell totem	A: 1	D: 0	Perseption: 0.0
+		bed
+		cellar
+			salted meat	HP: 0
+			flour bag	HP: 0
+			cabbage	HP: 3
+	Room 2:
+		wardrobe
+			quilt	A: 0	D: 0	Perseption: 0.0
+			leather	A: 0	D: 0	Perseption: 0.0
+			cloth cap	A: 0	D: 0	Perseption: 0.0
+		barrel
+			jar of jam	HP: 4
+			flour bag	HP: 0
+			apple pie	HP: 5
+		bed
+	Room 3:
+		wardrobe
+			cloth boots	A: 0	D: 0	Perseption: 0.0
+			leather	A: 0	D: 0	Perseption: 0.0
+			cloth leggings	A: 0	D: 0	Perseption: 0.0
+		weapon rack
+			iron sword	A: 4	D: 0	Perseption: 0.0
+			iron sword	A: 4	D: 0	Perseption: 0.0
+			bow	A: 2	D: 0	Perseption: 0.0
+		bed
+
+	House 3:
+	Room 1:
+		chest
+			49gold
+			cloth	A: 0	D: 0	Perseption: 0.0
+			iron mace	A: 4	D: 0	Perseption: 0.0
+			jar of jam	HP: 4
+		wardrobe
+			leather	A: 0	D: 0	Perseption: 0.0
+			leather	A: 0	D: 0	Perseption: 0.0
+			quilt	A: 0	D: 0	Perseption: 0.0
+		weapon rack
+			padded boots	A: 0	D: 1	Perseption: 0.05
+			leather cap	A: 0	D: 1	Perseption: 0.0
+			padded boots	A: 0	D: 1	Perseption: 0.05
+		bed
+		cellar
+			apple	HP: 2
+			cooked meat	HP: 4
+			raw meat	HP: 2
+	Room 2:
+		chest
+			39gold
+			cabbage	HP: 3
+			potato	HP: 1
+			silk shirt	A: 0	D: 0	Perseption: 0.03
+		weapon rack
+			leather cap	A: 0	D: 1	Perseption: 0.0
+			iron dagger	A: 3	D: 0	Perseption: 0.0
+			iron sword	A: 4	D: 0	Perseption: 0.0
+		bed
+		shelves
+			flour bag	HP: 0
+			apple	HP: 2
+			carrot	HP: 1
+
+	House 4:
+	Room 1:
+		weapon rack
+			padded boots	A: 0	D: 1	Perseption: 0.05
+			iron mallet	A: 3	D: 0	Perseption: 0.0
+			fire spell totem	A: 1	D: 0	Perseption: 0.0
+		bed
+		cellar
+			apple	HP: 2
+			flour bag	HP: 0
+			apple	HP: 2
+		large chest
+			bow	A: 2	D: 0	Perseption: 0.0
+			leather boots	A: 0	D: 1	Perseption: 0.01
+			leather boots	A: 0	D: 1	Perseption: 0.01
+
+	House 5:
+	Room 1:
+		chest
+			37gold
+			bow	A: 2	D: 0	Perseption: 0.0
+			cloth	A: 0	D: 0	Perseption: 0.0
+			quilt	A: 0	D: 0	Perseption: 0.0
+		barrel
+			potato	HP: 1
+			apple	HP: 2
+			apple	HP: 2
+		bed
+	Room 2:
+		bed
+		table
+			apple	HP: 2
+			jar of jam	HP: 4
+			apple	HP: 2
+	Room 3:
+		chest
+			72gold
+			cloth tunic	A: 0	D: 0	Perseption: 0.0
+			carrot	HP: 1
+			jar of jam	HP: 4
+		bed
+
+	House 6:
+	Room 1:
+		barrel
+			jar of jam	HP: 4
+			raw meat	HP: 2
+			potato	HP: 1
+		bed
+		shelves
+			carrot	HP: 1
+			apple pie	HP: 5
+			jar of jam	HP: 4
+	Room 2:
+		chest
+			86gold
+			apple pie	HP: 5
+			leather	A: 0	D: 0	Perseption: 0.0
+			cloth	A: 0	D: 0	Perseption: 0.0
+		barrel
+			apple	HP: 2
+			flour bag	HP: 0
+			apple	HP: 2
+		weapon rack
+			iron mallet	A: 3	D: 0	Perseption: 0.0
+			iron mallet	A: 3	D: 0	Perseption: 0.0
+			engraved stone sword	A: 5	D: 0	Perseption: 0.05
+		bed
+		large chest
+			leather tunic	A: 0	D: 1	Perseption: 0.0
+			iron mace	A: 4	D: 0	Perseption: 0.0
+			iron mace	A: 4	D: 0	Perseption: 0.0
+
+	House 7:
+	Room 1:
+		barrel
+			flour bag	HP: 0
+			carrot	HP: 1
+			carrot	HP: 1
+		bed
+	Room 2:
+		wardrobe
+			silk pants	A: 0	D: 0	Perseption: 0.03
+			quilt	A: 0	D: 0	Perseption: 0.0
+			cloth leggings	A: 0	D: 0	Perseption: 0.0
+		barrel
+			cabbage	HP: 3
+			apple pie	HP: 5
+			potato	HP: 1
+		weapon rack
+			bow	A: 2	D: 0	Perseption: 0.0
+			stone sword	A: 3	D: 0	Perseption: 0.0
+			iron mallet	A: 3	D: 0	Perseption: 0.0
+		bed
+		shelves
+			potato	HP: 1
+			potato	HP: 1
+			carrot	HP: 1
+		table
+			salted meat	HP: 0
+			cabbage	HP: 3
+			raw meat	HP: 2
+	Room 3:
+		chest
+			45gold
+			apple	HP: 2
+			iron ring of perseption	A: 0	D: 0	Perseption: 0.05
+			cloth boots	A: 0	D: 0	Perseption: 0.0
+		bed
+
+

@@ -1,0 +1,3 @@
+bedroom,1.0,1,chest wardrobe bed;
+room,1.0,1,chest barrel large chest;
+kitchen,.5,2,barrel cellar table shelf;

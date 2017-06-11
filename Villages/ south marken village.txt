@@ -1,0 +1,11 @@
+	House 1:
+	Room 1:
+		barrel
+			potato	HP: 1
+		bed
+
+	House 2:
+	Room 1:
+		bed
+
+

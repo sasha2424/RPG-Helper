@@ -1,0 +1,547 @@
+bishidu
+   house
+         room
+
+         bedroom
+               chest
+                    17 gold
+                     quilt	Perception: 0.0
+                     leather cap	D: 1	Perseption: 0.0
+                     leather boots	D: 1	Perseption: 0.01
+                     stone sword	A: 3	Perseption: 0.0
+                     apple	HP: 2
+                     apple	HP: 2
+
+               bed
+
+
+         bedroom
+               chest
+                    17 gold
+                     leather leggings	D: 1	Perseption: 0.0
+                     leather	Perception: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     iron mallet	A: 3	Perseption: 0.0
+                     bow	A: 2	Perseption: 0.0
+                     leather	Perception: 0.0
+
+               bed
+
+
+         room
+               chest
+                    8 gold
+                     brass ring	Perception: 0.0
+                     cloth leggings	Perception: 0.0
+                     steal ring of perseption	Perception: 0.09
+                     iron chestplate	D: 2	Perseption: 0.0
+                     jar of jam	HP: 4
+                     apple	HP: 2
+
+               barrel
+                     jar of jam	HP: 4
+                     apple	HP: 2
+                     cooked meat	HP: 4
+                     salted meat	HP: 0
+                     apple	HP: 2
+                     potato	HP: 1
+
+
+
+   house
+         bedroom
+               chest
+                    16 gold
+                     steal dagger	A: 5	Perseption: 0.0
+                     iron mallet	A: 3	Perseption: 0.0
+                     stone sword	A: 3	Perseption: 0.0
+                     cloth	Perception: 0.0
+                     iron boots	D: 2	Perseption: 0.0
+                     iron leggings	D: 2	Perseption: 0.0
+
+               wardrobe
+                     cloth leggings	Perception: 0.0
+                     cloth	Perception: 0.0
+                     engraved brass ring	Perception: 0.1
+                     cloth tunic	Perception: 0.0
+                     silk pants	Perception: 0.03
+                     cloth cap	Perception: 0.0
+
+               bed
+
+
+         room
+               chest
+                    10 gold
+                     leather cap	D: 1	Perseption: 0.0
+                     leather	Perception: 0.0
+                     leather boots	D: 1	Perseption: 0.01
+                     apple	HP: 2
+                     padded boots	D: 1	Perseption: 0.05
+                     iron hammer	A: 3	Perseption: 0.0
+
+               large chest
+                    29 gold
+                     leather leggings	D: 1	Perseption: 0.0
+                     iron chestplate	D: 2	Perseption: 0.0
+                     leather boots	D: 1	Perseption: 0.01
+                     leather tunic	D: 1	Perseption: 0.0
+                     leather leggings	D: 1	Perseption: 0.0
+                     leather boots	D: 1	Perseption: 0.01
+                     stone sword	A: 3	Perseption: 0.0
+                     wooden sword	A: 2	Perseption: 0.0
+                     engraved stone sword	A: 5	Perseption: 0.05
+                     iron sword	A: 4	Perseption: 0.0
+                     iron dagger	A: 3	Perseption: 0.0
+                     bow	A: 2	Perseption: 0.0
+                     engraved steal sword	A: 7	Perseption: 0.05
+                     fire spell totem	A: 1	Perseption: 0.0
+                     leather cap	D: 1	Perseption: 0.0
+                     flour bag	HP: 0
+                     cloth cap	Perception: 0.0
+                     oak skin totem	A: 0	Perseption: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     iron leggings	D: 2	Perseption: 0.0
+                     leather tunic	D: 1	Perseption: 0.0
+                     leather leggings	D: 1	Perseption: 0.0
+                     leather leggings	D: 1	Perseption: 0.0
+                     leather leggings	D: 1	Perseption: 0.0
+                     ice spell totem	A: 1	Perseption: 0.0
+                     iron dagger	A: 3	Perseption: 0.0
+                     iron mallet	A: 3	Perseption: 0.0
+                     fire spell totem	A: 1	Perseption: 0.0
+                     iron sword	A: 4	Perseption: 0.0
+                     ice spell totem	A: 1	Perseption: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     cloth boots	Perception: 0.0
+                     fire spell totem	A: 1	Perseption: 0.0
+                     padded boots	D: 1	Perseption: 0.05
+                     fire spell totem	A: 1	Perseption: 0.0
+                     embroidered shirt	Perception: 0.05
+
+
+         room
+               barrel
+                     carrot	HP: 1
+                     potato	HP: 1
+                     cooked meat	HP: 4
+                     apple	HP: 2
+                     apple	HP: 2
+                     cooked meat	HP: 4
+
+
+         bedroom
+               wardrobe
+                     cloth	Perception: 0.0
+                     quilt	Perception: 0.0
+                     cloth tunic	Perception: 0.0
+                     leather	Perception: 0.0
+                     embroidered silk vest	Perception: 0.05
+                     cloth cap	Perception: 0.0
+
+               bed
+
+
+         bedroom
+               chest
+                    27 gold
+                     raw meat	HP: 2
+                     oak skin totem	A: 0	Perseption: 0.0
+                     wooden sword	A: 2	Perseption: 0.0
+                     apple	HP: 2
+                     leather	Perception: 0.0
+                     cabbage	HP: 3
+
+               bed
+
+
+         bedroom
+               chest
+                    14 gold
+                     quilt	Perception: 0.0
+                     cooked meat	HP: 4
+                     cloth cap	Perception: 0.0
+                     padded boots	D: 1	Perseption: 0.05
+                     wooden sword	A: 2	Perseption: 0.0
+                     padded boots	D: 1	Perseption: 0.05
+
+               wardrobe
+                     iron ring	Perception: 0.0
+                     leather	Perception: 0.0
+                     cloth boots	Perception: 0.0
+                     leather	Perception: 0.0
+                     cloth vest	Perception: 0.0
+                     silk pants	Perception: 0.03
+
+               bed
+
+
+         room
+               chest
+                    9 gold
+                     cloth cap	Perception: 0.0
+                     cloth cap	Perception: 0.0
+                     raw meat	HP: 2
+                     flour bag	HP: 0
+                     quilt	Perception: 0.0
+                     jar of jam	HP: 4
+
+               barrel
+                     carrot	HP: 1
+                     apple	HP: 2
+                     apple	HP: 2
+                     apple	HP: 2
+                     salted meat	HP: 0
+                     salted meat	HP: 0
+
+               large chest
+                    48 gold
+                     leather tunic	D: 1	Perseption: 0.0
+                     leather cap	D: 1	Perseption: 0.0
+                     iron leggings	D: 2	Perseption: 0.0
+                     leather cap	D: 1	Perseption: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     iron chestplate	D: 2	Perseption: 0.0
+                     iron dagger	A: 3	Perseption: 0.0
+                     steal dagger	A: 5	Perseption: 0.0
+                     wooden sword	A: 2	Perseption: 0.0
+                     engraved stone sword	A: 5	Perseption: 0.05
+                     engraved stone sword	A: 5	Perseption: 0.05
+                     bow	A: 2	Perseption: 0.0
+                     leather boots	D: 1	Perseption: 0.01
+                     apple pie	HP: 5
+                     quilt	Perception: 0.0
+                     iron leggings	D: 2	Perseption: 0.0
+                     cloth tunic	Perception: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     leather cap	D: 1	Perseption: 0.0
+                     iron boots	D: 2	Perseption: 0.0
+                     leather cap	D: 1	Perseption: 0.0
+                     engraved iron boots	D: 2	Perseption: 0.08
+                     leather cap	D: 1	Perseption: 0.0
+                     leather leggings	D: 1	Perseption: 0.0
+                     wooden sword	A: 2	Perseption: 0.0
+                     stone sword	A: 3	Perseption: 0.0
+                     stone sword	A: 3	Perseption: 0.0
+                     steal sword	A: 6	Perseption: 0.0
+                     iron mallet	A: 3	Perseption: 0.0
+                     iron dagger	A: 3	Perseption: 0.0
+                     cloth cap	Perception: 0.0
+                     fire spell totem	A: 1	Perseption: 0.0
+                     leather	Perception: 0.0
+                     steal dagger	A: 5	Perseption: 0.0
+                     leather	Perception: 0.0
+                     stone sword	A: 3	Perseption: 0.0
+
+
+         room
+               barrel
+                     apple	HP: 2
+                     potato	HP: 1
+                     flour bag	HP: 0
+                     raw meat	HP: 2
+                     potato	HP: 1
+                     raw meat	HP: 2
+
+
+         room
+               chest
+                    36 gold
+                     leather leggings	D: 1	Perseption: 0.0
+                     leather boots	D: 1	Perseption: 0.01
+                     cloth cap	Perception: 0.0
+                     cloth tunic	Perception: 0.0
+                     iron dagger	A: 3	Perseption: 0.0
+                     cabbage	HP: 3
+
+               barrel
+                     flour bag	HP: 0
+                     raw meat	HP: 2
+                     apple	HP: 2
+                     flour bag	HP: 0
+                     potato	HP: 1
+                     jar of jam	HP: 4
+
+
+
+   house
+         bedroom
+               chest
+                    1 gold
+                     leather tunic	D: 1	Perseption: 0.0
+                     potato	HP: 1
+                     carrot	HP: 1
+                     cloth	Perception: 0.0
+                     iron chestplate	D: 2	Perseption: 0.0
+                     cloth boots	Perception: 0.0
+
+               bed
+
+
+         room
+               barrel
+                     raw meat	HP: 2
+                     apple pie	HP: 5
+                     cooked meat	HP: 4
+                     salted meat	HP: 0
+                     cooked meat	HP: 4
+                     carrot	HP: 1
+
+
+         bedroom
+               bed
+
+
+         room
+               barrel
+                     flour bag	HP: 0
+                     flour bag	HP: 0
+                     jar of jam	HP: 4
+                     carrot	HP: 1
+                     apple	HP: 2
+                     apple pie	HP: 5
+
+               large chest
+                    39 gold
+                     padded boots	D: 1	Perseption: 0.05
+                     iron chestplate	D: 2	Perseption: 0.0
+                     leather boots	D: 1	Perseption: 0.01
+                     leather leggings	D: 1	Perseption: 0.0
+                     leather boots	D: 1	Perseption: 0.01
+                     leather tunic	D: 1	Perseption: 0.0
+                     fire spell totem	A: 1	Perseption: 0.0
+                     wooden sword	A: 2	Perseption: 0.0
+                     fire spell totem	A: 1	Perseption: 0.0
+                     iron mallet	A: 3	Perseption: 0.0
+                     iron dagger	A: 3	Perseption: 0.0
+                     stone sword	A: 3	Perseption: 0.0
+                     leather	Perception: 0.0
+                     fire spell totem	A: 1	Perseption: 0.0
+                     iron leggings	D: 2	Perseption: 0.0
+                     cloth leggings	Perception: 0.0
+                     leather boots	D: 1	Perseption: 0.01
+                     raw meat	HP: 2
+                     leather boots	D: 1	Perseption: 0.01
+                     leather cap	D: 1	Perseption: 0.0
+                     leather cap	D: 1	Perseption: 0.0
+                     leather cap	D: 1	Perseption: 0.0
+                     leather leggings	D: 1	Perseption: 0.0
+                     leather leggings	D: 1	Perseption: 0.0
+                     wooden sword	A: 2	Perseption: 0.0
+                     engraved stone sword	A: 5	Perseption: 0.05
+                     engraved bow	A: 3	Perseption: 0.05
+                     iron sword	A: 4	Perseption: 0.0
+                     bow	A: 2	Perseption: 0.0
+                     iron hammer	A: 3	Perseption: 0.0
+                     cabbage	HP: 3
+                     cloth leggings	Perception: 0.0
+                     engraved bow	A: 3	Perseption: 0.05
+                     engraved iron helmet	D: 2	Perseption: 0.08
+                     cloth cap	Perception: 0.0
+                     engraved stone sword	A: 5	Perseption: 0.05
+
+
+         room
+
+         bedroom
+               wardrobe
+                     silk pants	Perception: 0.03
+                     cloth tunic	Perception: 0.0
+                     cloth leggings	Perception: 0.0
+                     cloth tunic	Perception: 0.0
+                     quilt	Perception: 0.0
+                     silk pants	Perception: 0.03
+
+               bed
+
+
+         room
+
+         room
+               barrel
+                     carrot	HP: 1
+                     raw meat	HP: 2
+                     potato	HP: 1
+                     cabbage	HP: 3
+                     potato	HP: 1
+                     cooked meat	HP: 4
+
+
+
+   house
+         room
+               chest
+                    24 gold
+                     cloth	Perception: 0.0
+                     cloth tunic	Perception: 0.0
+                     leather	Perception: 0.0
+                     iron dagger	A: 3	Perseption: 0.0
+                     cloth leggings	Perception: 0.0
+                     wooden sword	A: 2	Perseption: 0.0
+
+               barrel
+                     jar of jam	HP: 4
+                     apple	HP: 2
+                     salted meat	HP: 0
+                     cabbage	HP: 3
+                     apple	HP: 2
+                     raw meat	HP: 2
+
+               large chest
+                    44 gold
+                     iron leggings	D: 2	Perseption: 0.0
+                     leather tunic	D: 1	Perseption: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     leather leggings	D: 1	Perseption: 0.0
+                     leather cap	D: 1	Perseption: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     iron dagger	A: 3	Perseption: 0.0
+                     steal sword	A: 6	Perseption: 0.0
+                     bow	A: 2	Perseption: 0.0
+                     engraved stone sword	A: 5	Perseption: 0.05
+                     fire spell totem	A: 1	Perseption: 0.0
+                     iron mallet	A: 3	Perseption: 0.0
+                     engraved iron leggings	D: 2	Perseption: 0.08
+                     leather boots	D: 1	Perseption: 0.01
+                     apple	HP: 2
+                     salted meat	HP: 0
+                     leather boots	D: 1	Perseption: 0.01
+                     leather cap	D: 1	Perseption: 0.0
+                     iron leggings	D: 2	Perseption: 0.0
+                     iron leggings	D: 2	Perseption: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     leather tunic	D: 1	Perseption: 0.0
+                     iron boots	D: 2	Perseption: 0.0
+                     leather tunic	D: 1	Perseption: 0.0
+                     stone sword	A: 3	Perseption: 0.0
+                     ice spell totem	A: 1	Perseption: 0.0
+                     iron mallet	A: 3	Perseption: 0.0
+                     fire spell totem	A: 1	Perseption: 0.0
+                     engraved steal sword	A: 7	Perseption: 0.05
+                     engraved stone sword	A: 5	Perseption: 0.05
+                     leather tunic	D: 1	Perseption: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     oak skin totem	A: 0	Perseption: 0.0
+                     cloth leggings	Perception: 0.0
+                     leather boots	D: 1	Perseption: 0.01
+                     iron chestplate	D: 2	Perseption: 0.0
+
+
+         bedroom
+               bed
+
+
+         bedroom
+               chest
+                    20 gold
+                     leather	Perception: 0.0
+                     iron mace	A: 4	Perseption: 0.0
+                     leather leggings	D: 1	Perseption: 0.0
+                     brass ring	Perception: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     cloth cap	Perception: 0.0
+
+               wardrobe
+                     cloth	Perception: 0.0
+                     cloth boots	Perception: 0.0
+                     fur vest	Perception: 0.01
+                     leather	Perception: 0.0
+                     quilt	Perception: 0.0
+                     quilt	Perception: 0.0
+
+               bed
+
+
+         bedroom
+               wardrobe
+                     cloth tunic	Perception: 0.0
+                     cloth cap	Perception: 0.0
+                     muga silk pants	Perception: 0.06
+                     cloth boots	Perception: 0.0
+                     silk pants	Perception: 0.03
+                     embroidered shirt	Perception: 0.05
+
+               bed
+
+
+         bedroom
+               chest
+                    6 gold
+                     leather boots	D: 1	Perseption: 0.01
+                     cloth leggings	Perception: 0.0
+                     iron chestplate	D: 2	Perseption: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     iron leggings	D: 2	Perseption: 0.0
+                     cloth leggings	Perception: 0.0
+
+               bed
+
+
+         bedroom
+               chest
+                    14 gold
+                     cooked meat	HP: 4
+                     wooden sword	A: 2	Perseption: 0.0
+                     iron helmet	D: 2	Perseption: -0.05
+                     cooked meat	HP: 4
+                     apple	HP: 2
+                     apple	HP: 2
+
+               wardrobe
+                     silk shirt	Perception: 0.03
+                     quilt	Perception: 0.0
+                     cloth cap	Perception: 0.0
+                     cloth boots	Perception: 0.0
+                     cloth boots	Perception: 0.0
+                     cloth boots	Perception: 0.0
+
+               bed
+
+
+         bedroom
+               bed
+
+
+         bedroom
+               wardrobe
+                     silk pants	Perception: 0.03
+                     cloth boots	Perception: 0.0
+                     steal ring	Perception: 0.0
+                     silk pants	Perception: 0.03
+                     cloth tunic	Perception: 0.0
+                     cloth tunic	Perception: 0.0
+
+               bed
+
+
+         room
+               chest
+                    4 gold
+                     cloth boots	Perception: 0.0
+                     flour bag	HP: 0
+                     carrot	HP: 1
+                     steal dagger	A: 5	Perseption: 0.0
+                     engraved steal sword	A: 7	Perseption: 0.05
+                     apple	HP: 2
+
+               barrel
+                     potato	HP: 1
+                     apple	HP: 2
+                     salted meat	HP: 0
+                     apple	HP: 2
+                     flour bag	HP: 0
+                     potato	HP: 1
+
+
+         room
+               barrel
+                     apple	HP: 2
+                     carrot	HP: 1
+                     jar of jam	HP: 4
+                     potato	HP: 1
+                     flour bag	HP: 0
+                     apple	HP: 2
+
+
+
+
